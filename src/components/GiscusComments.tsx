@@ -3,10 +3,10 @@
 import { useEffect, useRef } from "react";
 
 const GISCUS_CONFIG = {
-  repo: "your-github-username/your-repo" as `${string}/${string}`,
-  repoId: "YOUR_REPO_ID",
+  repo: "NanGua-007/blog" as `${string}/${string}`,
+  repoId: "R_kgDOSZ-vVQ",
   category: "Announcements",
-  categoryId: "YOUR_CATEGORY_ID",
+  categoryId: "DIC_kwDOSZ-vVc4C8woh",
 };
 
 export default function GiscusComments() {
